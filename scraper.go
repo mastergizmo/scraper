@@ -20,7 +20,7 @@ import (
 	"github.com/mitchellh/go-homedir"
 	"github.com/sselph/scraper/ds"
 	"github.com/sselph/scraper/gdb"
-	"github.com/sselph/mastergizmo/rom"
+	"github.com/mastergizmo/scraper/rom"
 	"github.com/sselph/scraper/ss"
 
 	rh "github.com/sselph/scraper/rom/hash"
